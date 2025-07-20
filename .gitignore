@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Coverage reports
+coverage/
+
+# Cache directories
+.cache/
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo

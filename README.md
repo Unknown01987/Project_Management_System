@@ -78,7 +78,6 @@ We welcome contributions to enhance the functionality and usability of this proj
 5. Push your changes to your forked repository.
 6. Create a pull request to the main repository.
 
-Please ensure that your code follows the coding standards and includes relevant documentation.
 
 
 Happy Project Management with MERN! 🚀🔧📊
